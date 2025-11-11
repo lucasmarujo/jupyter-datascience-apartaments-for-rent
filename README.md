@@ -348,15 +348,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 ---
 
-## 📞 Contato
-
-- 📧 Email: contato@apartmentfrauddetection.com
-- 🌐 Website: [www.apartmentfrauddetection.com](https://www.apartmentfrauddetection.com)
-- 💼 LinkedIn: [Apartment Fraud Detection](https://linkedin.com/company/apartment-fraud-detection)
-- 🐦 Twitter: [@AptFraudDetect](https://twitter.com/AptFraudDetect)
-
----
-
 ## 🙏 Agradecimentos
 
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/) - Fornecimento do dataset
@@ -368,9 +359,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 ## 📊 Estatísticas do Projeto
 
-![GitHub stars](https://img.shields.io/github/stars/seu-usuario/apartment-fraud-detection?style=social)
-![GitHub forks](https://img.shields.io/github/forks/seu-usuario/apartment-fraud-detection?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/seu-usuario/apartment-fraud-detection?style=social)
+![GitHub stars](https://img.shields.io/github/stars/lucasmarujo/jupyter-datascience-apartaments-for-rent)
+![GitHub forks](https://img.shields.io/github/forks/lucasmarujo/jupyter-datascience-apartaments-for-rent)
+![GitHub watchers](https://img.shields.io/github/watchers/lucasmarujo/jupyter-datascience-apartaments-for-rent)
 
 ---
 
