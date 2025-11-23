@@ -2,3 +2,4 @@
 *.xls
 
 .venv
+.ipynb_checkpoints
